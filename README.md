@@ -13,7 +13,7 @@
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
 
 ## Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=tolqinovabdullox000-cell)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=tolqinovabdullox000-cell&show_icons=true&theme=radical)
 
 # Привет, я [Abdullox] 👋
 
@@ -30,4 +30,4 @@
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
 
 ## Статистика
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=tolqinovabdullox000-cell)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=tolqinovabdullox000-cell&show_icons=true&theme=radical)
