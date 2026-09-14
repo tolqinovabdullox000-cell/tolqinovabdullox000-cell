@@ -10,7 +10,7 @@
 ![React](https://img.shields.io/badge/-React-blue)
 
 ## Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=USERNAME)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Abdullox)
 
 
 
@@ -26,19 +26,5 @@
 ![React](https://img.shields.io/badge/-React-blue)
 
 ## Статистика
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=USERNAME)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Abdullox)
 
-
-# Salom, men [Abdullox (Abu)] 👋
-
-## Men haqimda
-- 💻 Frontend dasturchi
-- 🌱 Hozir [Html,Css,Js,React] o'rganyapman
-- 📫 Bog'lanish: [tolqinovabdullox000@gmail.com]
-
-## Ko'nikmalar
-![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-![React](https://img.shields.io/badge/-React-blue)
-
-## Statistika
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=USERNAME)
