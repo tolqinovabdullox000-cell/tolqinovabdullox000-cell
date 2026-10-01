@@ -1,8 +1,3 @@
-<p align="center">
-  <a href="README.md">🇺🇿 O'zbekcha</a> •
-  <a href="README.en.md">🇬🇧 English</a> •
-  <a href="README.ru.md">🇷🇺 Русский</a>
-</p>
 
 <h1 align="center">Hi, I'm Abdullox 👋</h1>
 
@@ -65,11 +60,7 @@
 <h3 align="center">⭐ Thanks for visiting my profile! ⭐</h3>
 
 
-<p align="center">
-  <a href="README.md">🇺🇿 O'zbekcha</a> •
-  <a href="README.en.md">🇬🇧 English</a> •
-  <a href="README.ru.md">🇷🇺 Русский</a>
-</p>
+
 
 <h1 align="center">Привет, я Абдуллох 👋</h1>
 
